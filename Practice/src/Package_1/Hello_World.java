@@ -23,6 +23,6 @@ public class Hello_World
 	@AfterClass
 	public void afterClass()
 	{
-		System.out.println("After Class");
+		System.out.println("After Class Selenium");
 	}
 }
